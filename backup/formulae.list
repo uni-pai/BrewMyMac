@@ -1,6 +1,7 @@
 annie
 aom
 aria2
+baidupcs-go
 bdw-gc
 c-ares
 cairo
@@ -61,10 +62,12 @@ libsamplerate
 libsndfile
 libsodium
 libsoxr
+libspiro
 libssh2
 libtasn1
 libtiff
 libtool
+libuninameslist
 libunistring
 libvidstab
 libvorbis
@@ -80,9 +83,11 @@ libxrender
 little-cms2
 lzo
 m4
+mackup
 mas
 mpdecimal
 mpfr
+ncurses
 nettle
 nghttp2
 oath-toolkit
@@ -130,4 +135,6 @@ xz
 youtube-dl
 zeromq
 zimg
+zplug
+zsh
 zsh-autosuggestions
