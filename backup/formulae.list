@@ -5,6 +5,7 @@ apr-util
 aria2
 baidupcs-go
 bdw-gc
+blueutil
 brotli
 c-ares
 cairo
@@ -39,14 +40,18 @@ harfbuzz
 icu4c
 imagemagick
 imath
+imlib2
 jbig2dec
 jbig2enc
 jemalloc
 jpeg
 lame
 leptonica
+libarchive
 libass
+libb2
 libbluray
+libcaca
 libcue
 libde265
 libev
@@ -89,6 +94,7 @@ libxml2
 libxmlsec1
 libxrender
 little-cms2
+luajit-openresty
 lz4
 lzo
 m4
@@ -97,6 +103,7 @@ mas
 mp4v2
 mpdecimal
 mpfr
+mujs
 ncurses
 nettle
 nghttp2
@@ -139,9 +146,11 @@ tcl-tk
 tesseract
 theora
 translate-shell
+uchardet
 unbound
 unpaper
 utf8proc
+vapoursynth
 webp
 wget
 x264
