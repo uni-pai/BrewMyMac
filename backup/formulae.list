@@ -37,6 +37,7 @@ gobject-introspection
 graphite2
 guile
 harfbuzz
+hub
 icu4c
 imagemagick
 imath
@@ -147,6 +148,7 @@ tesseract
 theora
 translate-shell
 uchardet
+unar
 unbound
 unpaper
 utf8proc
