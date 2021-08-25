@@ -131,7 +131,6 @@ pixman
 pkg-config
 pngquant
 pybind11
-python@3.9
 qpdf
 rav1e
 readline
