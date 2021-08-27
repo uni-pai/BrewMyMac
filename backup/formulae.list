@@ -12,6 +12,7 @@ cairo
 cmus
 cmusfm
 dav1d
+dbus
 docbook
 docbook-xsl
 docutils
@@ -130,7 +131,9 @@ pillow
 pixman
 pkg-config
 pngquant
+portaudio
 pybind11
+python@3.9
 qpdf
 rav1e
 readline
