@@ -48,6 +48,7 @@ jbig2dec
 jbig2enc
 jemalloc
 jpeg
+jpeg-xl
 lame
 leptonica
 libarchive
@@ -87,6 +88,7 @@ libuninameslist
 libunistring
 libuv
 libvidstab
+libvmaf
 libvorbis
 libvpx
 libx11
