@@ -3,6 +3,7 @@ aom
 apr
 apr-util
 aria2
+bash-completion
 bdw-gc
 blueutil
 brotli
@@ -11,12 +12,14 @@ ca-certificates
 cairo
 cmus
 cmusfm
+composer
 dav1d
 dbus
 docbook
 docbook-xsl
 docutils
 faad2
+fdupes
 ffmpeg
 flac
 fontconfig
@@ -103,6 +106,7 @@ little-cms2
 luajit-openresty
 lz4
 lzo
+m-cli
 m4
 mad
 mas
@@ -111,6 +115,7 @@ mpdecimal
 mpfr
 mpv
 mujs
+mycli
 nasm
 ncurses
 nettle
@@ -120,6 +125,7 @@ oath-toolkit
 ocrmypdf
 opencore-amr
 openexr
+openjdk
 openjpeg
 openldap
 openssl@1.1
@@ -135,7 +141,9 @@ pixman
 pkg-config
 pngquant
 portaudio
+pv
 pybind11
+python-tabulate
 python@3.10
 python@3.9
 qpdf
