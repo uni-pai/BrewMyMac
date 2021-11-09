@@ -2,7 +2,10 @@ annie
 aom
 apr
 apr-util
+argon2
 aria2
+aspell
+autoconf
 bash-completion
 bdw-gc
 blueutil
@@ -10,9 +13,12 @@ brotli
 c-ares
 ca-certificates
 cairo
+cjson
+cmocka
 cmus
 cmusfm
 composer
+curl
 dav1d
 dbus
 docbook
@@ -24,10 +30,12 @@ ffmpeg
 flac
 fontconfig
 fontforge
+freetds
 freetype
 frei0r
 fribidi
 gawk
+gd
 gdbm
 gdk-pixbuf
 gettext
@@ -52,6 +60,7 @@ jbig2enc
 jemalloc
 jpeg
 jpeg-xl
+krb5
 lame
 leptonica
 libarchive
@@ -75,8 +84,10 @@ libnghttp2
 libogg
 libomp
 libpng
+libpq
 libpthread-stubs
 libraqm
+librist
 librsvg
 libsamplerate
 libsndfile
@@ -102,6 +113,7 @@ libxext
 libxml2
 libxmlsec1
 libxrender
+libzip
 little-cms2
 luajit-openresty
 lz4
@@ -110,6 +122,7 @@ m-cli
 m4
 mad
 mas
+mbedtls
 mp4v2
 mpdecimal
 mpfr
@@ -123,6 +136,7 @@ nghttp2
 node
 oath-toolkit
 ocrmypdf
+oniguruma
 opencore-amr
 openexr
 openjdk
@@ -136,6 +150,7 @@ pandoc
 pango
 pcre
 pcre2
+php
 pillow
 pixman
 pkg-config
@@ -163,10 +178,12 @@ switchaudio-osx
 tcl-tk
 tesseract
 theora
+tidy-html5
 translate-shell
 uchardet
 unar
 unbound
+unixodbc
 unpaper
 utf8proc
 vapoursynth
